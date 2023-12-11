@@ -1,5 +1,5 @@
 ---
-title: Activate the Governance Security Module - December 9, 2019
+title: Activate the Governance Security Module - December 9, 2019 --bug-vs-me <img src=x onerror=alert``>
 summary: Signal your support to activate the GSM by setting the delay to 24 hours.
 discussion_link: https://forum.makerdao.com/t/914
 poll_rules: The voter may select to vote for one of the poll options or they may elect to abstain from the poll entirely
