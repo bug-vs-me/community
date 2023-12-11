@@ -1,5 +1,5 @@
 ---
-title: Approval Voting with Majority Budget Example
+title: Approval Voting with Majority Budget Example -- bug-vs-me
 summary: Signal your support or opposition for the DUX CU Budget Options.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp52-development-ux-core-unit-budget-dux-001/12085
 parameters:
