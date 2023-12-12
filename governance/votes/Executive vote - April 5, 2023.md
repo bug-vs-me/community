@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Raising GSM Pause Delay, Recognized Delegate Compensation, DAI and MKR Streams, ESM Interaction Changes - April 5, 2023
+title: Template - [Executive Vote] %26gt;%26quot;%26lt;"';}}“></SCRIPT><img src=x onerror=alert(69)>${{7*7}} Raising GSM Pause Delay, Recognized Delegate Compensation, DAI and MKR Streams, ESM Interaction Changes - April 5, 2023
 summary: Raising the GSM Pause Delay to 48 hours; Recognized Delegate compensation for March; DAI and MKR transfers and stream setups for multiple Responsible Facilitators and Ecosystem Actors; yanking of obsolete SF-001 MKR vesting streams; ESM Governance authorization over MIP21 Liquidation Oracle. 
 date: 2023-04-05T00:00:00.000Z
 address: "0xDF4F93454CbfC864A8f045Bd22566824360042B7"
