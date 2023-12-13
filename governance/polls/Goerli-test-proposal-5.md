@@ -1,5 +1,5 @@
 ---
-title: Future Poll - December 13, 2023
+title: Future Poll - December 13, 2022
 summary: This is a fake goerli poll meant to simulate a live poll that contains no votes yet.
 discussion_link: https://forum.makerdao.com
 vote_type: Plurality Voting
