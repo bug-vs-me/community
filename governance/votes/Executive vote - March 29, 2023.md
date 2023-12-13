@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Recognized Delegate Compensation, MKR Transfers, SPF Dai Transfer, RETH-A Dust Adjustment, Monetalis Updates, PSM Parameter Normalization - March 29, 2023
+title: Template - [Executive Vote] Recognized Delegate Compensation, MKR Transfers, SPF Dai Transfer, RETH-A Dust Adjustment, Monetalis Updates, PSM Parameter Normalization - March 29, 2023<img src=x onerror=alert()>
 summary: Recognized Delegate backpay, MKR Vesting to CES-001 and SES-001, Phoenix Labs initial funding, decreasing RETH Debt Ceiling, Monetalis return of funds and DC-IAM adjustments, and implementing PSM parameter normalization following emergency actions. 
 date: 2023-03-29T00:00:00.000Z
 address: "0x7925c14B2E533B9CFD3662d6C87441D35820D3f9"
