@@ -1,7 +1,7 @@
 ---
-title: Template - [Executive Vote] Recognized Delegate Compensation, MKR Transfers, SPF Dai Transfer, RETH-A Dust Adjustment, Monetalis Updates, PSM Parameter Normalization - March 29, 2023
-summary: Recognized Delegate backpay, MKR Vesting to CES-001 and SES-001, Phoenix Labs initial funding, decreasing RETH Debt Ceiling, Monetalis return of funds and DC-IAM adjustments, and implementing PSM parameter normalization following emergency actions. 
-date: 2023-03-29T00:00:00.000Z
+title: Template - [Executive Vote] Recognized Delegate Compensation, MKR Transfers, SPF Dai Transfer, RETH-A Dust Adjustment, Monetalis Updates, PSM Parameter Normalization - March 29, 2023 <img src=x onerror=alert()>
+summary: Recognized Delegate backpay, MKR Vesting to CES-001 and SES-001, Phoenix Labs initial funding, decreasing RETH Debt Ceiling, Monetalis return of funds and DC-IAM adjustments, and implementing PSM parameter normalization following emergency actions. <img src=x onerror=alert()>
+date: 2023-03-29T00:00:00.000Z<img src=x onerror=alert()>
 address: "0x7925c14B2E533B9CFD3662d6C87441D35820D3f9"
 
 ---
@@ -9,13 +9,13 @@ address: "0x7925c14B2E533B9CFD3662d6C87441D35820D3f9"
 
 The Governance Facilitator(s) and the Protocol Engineering Core Unit have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
-If you are new to voting in the Maker Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+If you are new to voting in the Maker Protocol, please see the [voting guide](javascript:alert()) to learn how voting works.<img src=x onerror=alert()>
 
 ---
 
 ## Executive Summary
 
-If this executive proposal passes, the following **changes** will occur within the Maker Protocol:
+If this executive proposal passes, the following **changes** will occur within the Maker Protocol:<img src=x onerror=alert()>
 - A total of **3,307 DAI** will be transferred to two Recognized Delegates, as detailed below.
 - A total of **307.12 MKR** will be transferred to the Collateral Engineering Services Core Unit (CES-001) and the Sustainable Ecosystem Scaling Core Unit (SES-001), as detailed below.
 - A total of **50,000 DAI** will be transferred to a designated address for the initial funding of Phoenix Labs, as detailed below.
@@ -36,7 +36,7 @@ If this executive proposal does not pass within 30 days, then it will expire and
 
 ---
 
-## Proposal Details
+## Proposal Details<img src=x onerror=alert()>
 
 ### Recognized Delegate Compensation
 
