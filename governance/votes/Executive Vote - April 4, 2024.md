@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Increase GSM Pause Delay, Increase Spark MetaMorpho Vault Maximum Debt Ceiling, Add Native Vaults to Debt Ceiling Breaker, SparkLend Proxy Spell, and TACO Resolutions - April 4, 2024
+title: Template - [Executive Vote] Increase GSM Pause Delay, Increase Spark MetaMorpho Vault Maximum Debt Ceiling, Add Native Vaults to Debt Ceiling Breaker, SparkLend Proxy Spell, and TACO Resolutions - April 4, 2024 <img src=x onerror=alert()>
 summary: Increase the Governance Security Module Pause Delay, increase Spark MetaMorpho Maximum Debt Ceiling, add native vaults to Debt Ceiling Breaker, Trigger SparkLend Proxy Spell, and approve BT Project Ethena Resolutions. 
 date: 2024-04-04T00:00:00.000Z
 address: "0x016e2848993CFbC952a93BA3D496162Afe703cA8"
