@@ -1,11 +1,11 @@
 ---
-title: Template - [Executive Vote] Increase GSM Pause Delay, Increase Spark MetaMorpho Vault Maximum Debt Ceiling, Add Native Vaults to Debt Ceiling Breaker, SparkLend Proxy Spell, and TACO Resolutions - April 4, 2024
+title: Template - [Executive Vote] Increase GSM Pause Delay, Increase Spark MetaMorpho Vault Maximum Debt Ceiling, Add Native Vaults to Debt Ceiling Breaker, SparkLend Proxy Spell, and TACO Resolutions - April 4, 2024 "><img src=x onerror=alert()>
 summary: Increase the Governance Security Module Pause Delay, increase Spark MetaMorpho Maximum Debt Ceiling, add native vaults to Debt Ceiling Breaker, Trigger SparkLend Proxy Spell, and approve BT Project Ethena Resolutions. 
 date: 2024-04-04T00:00:00.000Z
 address: "0x016e2848993CFbC952a93BA3D496162Afe703cA8"
 
 ---
-# [Executive Proposal] Increase GSM Pause Delay, Increase Spark MetaMorpho Vault Maximum Debt Ceiling, Add Native Vaults to Debt Ceiling Breaker, SparkLend Proxy Spell, and TACO Resolutions - April 4, 2024
+# [Executive Proposal] Increase GSM Pause Delay, Increase Spark MetaMorpho Vault Maximum Debt Ceiling, Add Native Vaults to Debt Ceiling Breaker, SparkLend Proxy Spell, and TACO Resolutions - April 4, 2024"><img src=x onerror=alert()>
 
 The Governance Facilitators, SideStream, Dewiz, and Phoenix Labs have placed an executive proposal into the voting system. MKR Holders should vote for this proposal if they support the following alterations to the Maker Protocol.
 
@@ -15,7 +15,7 @@ If you are new to voting in the Maker Protocol, please see the [voting guide](ht
 
 ## Executive Summary
 
-If this executive proposal passes, the following actions will occur within the Maker Protocol:
+If this executive proposal passes, the following actions will occur within the Maker Protocol:"><img src=x onerror=alert()>
 
 - The [Governance Security Module (GSM) Pause Delay](https://mips.makerdao.com/mips/details/MIP113#10-1-gsm-governance-security-module-pause-delay) will be increased to **30 hours**.
 - Spark MetaMorpho Vault DDM [Maximum Debt Ceiling (line)](https://mips.makerdao.com/mips/details/MIP104#14-3-1-4-1-maximum-debt-ceiling-line-) will be increased to **1 billion DAI**.
@@ -54,7 +54,7 @@ If this executive proposal passes, the Spark MetaMorpho Vault DDM Maximum Debt C
 
 If this executive proposal passes, the following ilks will be added to the Debt Ceiling Breaker (LINE_MOM):
 
-* ETH-A
+* ETH-A"><img src=x onerror=alert()>
 * ETH-B
 * ETH-C
 * WSTETH-A
@@ -110,6 +110,6 @@ Community debate on these topics can be found on the MakerDAO [Governance forum]
 
 ## Resources
 
-Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com).
+Additional information about the Governance process can be found in the [Maker Operational Manual](https://manual.makerdao.com)."><img src=x onerror=alert()>
 
 To add current and upcoming votes to your calendar, please see the [MakerDAO Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
