@@ -1,5 +1,5 @@
 ---
-title: SparkLend - Activate the SparkLend External Security Access Multisig - April 15, 2024
+title: SparkLend - Activate the SparkLend External Security Access Multisig - April 15, 2024 "><img src=x onerror=alert()>
 summary: Signal your support or opposition to activating the SparkLend External Security Access Multisig for Freezer Mom.
 discussion_link: https://forum.makerdao.com/t/sparklend-external-security-access-multisig-for-freezer-mom/24070
 parameters:
